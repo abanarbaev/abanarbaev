@@ -10,8 +10,7 @@
 </h3>
 
 - 🌱 I’m looking to collaborate on Open Source
-- 📫 How to reach me: 
-	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) (https://t.me/Red_Frunze), e-mail (adilet.anarbaev@gmail.com)
+- 📫 How to reach me: telegram (https://t.me/Red_Frunze), e-mail (adilet.anarbaev@gmail.com)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
