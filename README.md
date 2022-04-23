@@ -10,7 +10,7 @@
 </h3>
 
 - 🌱 I’m looking to collaborate on Open Source
-- 📫 How to reach me: telegram (https://t.me/Red_Frunze), e-mail (adilet.anarbaev@gmail.com)
+- 📫 How to reach me: telegram (https://t.me/Anarbaev_AB), e-mail (adilet.anarbaev@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanarbaev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
