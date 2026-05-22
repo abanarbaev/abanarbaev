@@ -12,7 +12,6 @@
 - 🌱 I’m looking to collaborate on Open Source
 - 📫 How to reach me: telegram (https://t.me/Anarbaev_AB), e-mail (adilet.anarbaev@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanarbaev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
