@@ -6,7 +6,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-  👀 I’m currently learning Python and Java
+  👀 DevOps Engineer
 </h3>
 
 - 🌱 I’m looking to collaborate on Open Source
